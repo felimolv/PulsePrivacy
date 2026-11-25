@@ -1,0 +1,18 @@
+Política de Privacidade – Pulse
+
+Última atualização: Novembro de 2026
+
+1. Finalidade do Aplicativo
+O Pulse é um aplicativo de uso estritamente pessoal desenvolvido para visualizar métricas de saúde e atividade física extraídas da conta Fitbit Air do próprio desenvolvedor.
+
+2. Dados Coletados
+O Pulse acessa apenas os dados autorizados via autenticação OAuth (como passos, frequência cardíaca, sono e atividades físicas) exclusivamente para exibição ao usuário autenticado.
+
+3. Uso e Compartilhamento de Dados
+Os dados coletados não são vendidos, alugados ou compartilhados com terceiros. As informações são utilizadas unicamente para visualização pessoal dentro do aplicativo.
+
+4. Armazenamento e Exclusão
+O usuário pode revogar o acesso do Pulse a qualquer momento nas configurações de segurança da conta Google/Fitbit, interrompendo imediatamente o acesso aos dados.
+
+5. Contato
+Em caso de dúvidas, entre em contato pelo e-mail: felipnhuu@gmai.com
